@@ -23,4 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
   
+  [![Mingmeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingmeng030&show_icons=true&theme=dracula)](https://github.com/mingmeng030/github-readme-stats) 
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djwls_0716)](https://solved.ac/djwls_0716/)
