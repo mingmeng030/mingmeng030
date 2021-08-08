@@ -1,7 +1,6 @@
 <h1 align="center">Welcome! This is mingmeng's git page 👋</h1>
 <h3 align="center">To Be frontend developer</h3>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> 
